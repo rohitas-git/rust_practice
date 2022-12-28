@@ -1,0 +1,1 @@
+/home/user/dev/rust/simpleDnD/target/release/simple_dnd: /home/user/dev/rust/simpleDnD/src/lib.rs /home/user/dev/rust/simpleDnD/src/main.rs /home/user/dev/rust/simpleDnD/src/races.rs /home/user/dev/rust/simpleDnD/src/spells.rs

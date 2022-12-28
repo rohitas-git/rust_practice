@@ -1,0 +1,1 @@
+/home/user/dev/rust/customDerive/pancakes/target/debug/pancakes: /home/user/dev/rust/customDerive/hello_macro/hello_macro_derive/src/lib.rs /home/user/dev/rust/customDerive/hello_macro/src/lib.rs /home/user/dev/rust/customDerive/pancakes/src/main.rs
